@@ -151,7 +151,7 @@ if os.path.exists(model_path):
 
         # --- SAVE ---
         new_entry = {
-            'Time': datetime.now().strftime("%H:%M:%S"),
+            
             'Area': sq_ft,
             'Rooms': rooms,
             'Age': age,
