@@ -136,7 +136,7 @@ if os.path.exists(model_path):
         st.markdown(f"""
         <div class="prediction-card">
             <h4>ESTIMATED VALUE</h4>
-            <h1 style='color:#007bff;'>₹{prediction:,.0f}</h1>
+            <h1 style='color:#007bff;'>${prediction:,.0f}</h1>
             <p style='color:green;'>✔ AI Prediction Complete</p>
         </div>
         """, unsafe_allow_html=True)
@@ -156,7 +156,7 @@ if os.path.exists(model_path):
             'Rooms': rooms,
             'Age': age,
             'Distance': dist,
-            'Price': f"₹{prediction:,.0f}"
+            'Price': f"${prediction:,.0f}"
         }
 
         df = pd.DataFrame([new_entry])
