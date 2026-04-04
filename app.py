@@ -63,8 +63,8 @@ div.stButton > button {
 """, unsafe_allow_html=True)
 
 # --- PATHS ---
-model_path = r'D:\HACKATHON\house_model.pkl'
-history_path = r'D:\HACKATHON\user_predictions_log.csv'
+model_path = "house_model.pkl"
+history_path = "user_predictions_log.csv"
 
 # --- SIDEBAR (NEW INTERACTIVE PANEL) ---
 st.sidebar.title("📊 Property Insights")
