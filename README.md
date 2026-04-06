@@ -109,7 +109,10 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Shashi**
-B.Tech CSE | Web Development & ML Enthusiast
+B.Tech IDD-CSE 
+
+**kHUSHI**
+B.Tech IDD-CSE 
 
 ---
 
