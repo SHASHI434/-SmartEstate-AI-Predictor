@@ -108,10 +108,10 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Shashi**
+**SHASHI RAJ**
 B.Tech IDD-CSE 
 
-**kHUSHI**
+**KHUSHI MITTAL**
 B.Tech IDD-CSE 
 
 ---
